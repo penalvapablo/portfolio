@@ -4128,3 +4128,8 @@ a {
 	background-color: white;
 	cursor: pointer;
 }
+
+.four-background {
+	background-color: rgba(0, 0, 0, 0.1);
+
+}
